@@ -150,20 +150,6 @@ A deep learning system for detecting AI-generated media, achieving **94.62% accu
 
 ---
 
-### Other Notable Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Air-Play](https://github.com/Trojan9/Air-Play) | Online music storage platform for users | Dart, Flutter |
-| [Insuremart](https://github.com/Trojan9/insuremart) | Insurance marketplace mobile application | Dart, Flutter |
-| [Finance Tracker](https://github.com/Trojan9/finance-tracker) | Personal finance tracking application | TypeScript |
-| [RL LLM Financial Portfolio](https://github.com/Trojan9/RL_LLM_Financial_Portfolio_Management) | Reinforcement Learning + LLM for portfolio management | Python, Jupyter |
-| [Flutter Horizontal Date Picker](https://github.com/Trojan9/flutter_horizontal_date_picker) | Open-source Flutter package for date selection | Dart, Flutter |
-| [Patient Management](https://github.com/Trojan9/patient-management) | Healthcare patient management system | Java |
-| [Todolist with Solidity](https://github.com/Trojan9/todolistwithsolidity) | Blockchain-based todo list with smart contracts | Solidity |
-
----
-
 ## Education
 
 | Degree | Institution | Year |
