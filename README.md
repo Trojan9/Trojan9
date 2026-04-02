@@ -18,7 +18,7 @@
 
 I'm a full-stack software developer and AI/ML engineer based in the **United Kingdom**, with a passion for building production-grade systems that scale. I hold a **Master of Science in Computer Science** from Teesside University and a **Bachelor of Science in Electrical & Electronics Engineering** from the University of Lagos, Nigeria.
 
-With **5+ years of professional experience**, I've architected distributed platforms serving **2,000+ monthly active users** and **50+ enterprise clients**, built AI systems that save thousands of dollars annually, and engineered payment integrations handling **$30,000+ in transactions** with zero security incidents.
+With **5+ years of professional experience**, I've architected distributed platforms serving **2,000+ monthly active users** and **50+ enterprise clients**, built AI systems that save thousands of dollars annually, and engineered payment integrations handling **$30,000+ in transactions per month** with zero security incidents.
 
 I thrive at the intersection of **software engineering** and **artificial intelligence** -- whether it's designing cloud-native microservices, building cross-platform mobile apps, crafting modern websites, or developing deep learning models for cancer research.
 
@@ -91,7 +91,7 @@ Architected and deployed a full-scale **distributed salon & business management 
 
 **Key Achievements:**
 - Designed a **high-performance real-time scheduling engine** that improved appointment processing efficiency by **80%** and reduced latency across distributed services
-- Built **secure payment integrations** handling **$30,000+** in transactions with **zero security incidents**, including native SDK integration via Kotlin, Java, and Swift
+- Built **secure payment integrations** handling **$30,000+** in transactions per month with **zero security incidents**, including native SDK integration via Kotlin, Java, and Swift
 - Developed a **production-grade AI customer support system** using OpenAI APIs and **Retrieval-Augmented Generation (RAG)**, delivering **$5,000+** in annual cost savings
 - Engineered infrastructure with **Docker**, **Nginx** (reverse proxy, load balancing, SSL termination), enabling horizontal scaling, high availability, and fault tolerance
 - Built and automated **CI/CD pipelines** using GitHub Actions, Azure DevOps, GCP, and Jenkins with integrated automated testing
@@ -190,7 +190,7 @@ A deep learning system for detecting AI-generated media, achieving **94.62% accu
 | Professional Experience | **5+ Years** |
 | Enterprise Clients Served | **50+** |
 | Monthly Active Users | **2,000+** |
-| Transactions Processed | **$40,000+** |
+| Transactions Processed Monthly | **$40,000+** |
 | Public Repositories | **78+** |
 | AI Model Accuracy (Fake Media) | **94.62%** |
 | Appointment Processing Improvement | **80%** |
