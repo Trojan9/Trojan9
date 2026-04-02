@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trojan9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatimilehinbanjo@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+scalable+systems+that+serve+thousands+of+users;From+backend+APIs+to+AI+pipelines+%E2%80%94+I+ship+it+all" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+scalable+systems+that+serve+thousands+of+users;From+backend+APIs+to+AI+pipelines+%E2%80%94+I+ship+it+all" alt="Typing SVG" />
 
 </div>
 
@@ -18,9 +18,9 @@
 
 I'm a full-stack software developer and AI/ML engineer based in the **United Kingdom**, with a passion for building production-grade systems that scale. I hold a **Master of Science in Computer Science** from Teesside University and a **Bachelor of Science in Electrical & Electronics Engineering** from the University of Lagos, Nigeria.
 
-With **4+ years of professional experience**, I've architected distributed platforms serving **2,000+ monthly active users** and **50+ enterprise clients**, built AI systems that save thousands of dollars annually, and engineered payment integrations handling **$30,000+ in transactions** with zero security incidents.
+With **5+ years of professional experience**, I've architected distributed platforms serving **2,000+ monthly active users** and **50+ enterprise clients**, built AI systems that save thousands of dollars annually, and engineered payment integrations handling **$30,000+ in transactions** with zero security incidents.
 
-I thrive at the intersection of **software engineering** and **artificial intelligence** -- whether it's designing cloud-native microservices, building cross-platform mobile apps, or developing deep learning models for cancer research.
+I thrive at the intersection of **software engineering** and **artificial intelligence** -- whether it's designing cloud-native microservices, building cross-platform mobile apps, crafting modern websites, or developing deep learning models for cancer research.
 
 ---
 
@@ -187,7 +187,7 @@ A deep learning system for detecting AI-generated media, achieving **94.62% accu
 
 | Metric | Value |
 |--------|-------|
-| Professional Experience | **4+ Years** |
+| Professional Experience | **5+ Years** |
 | Enterprise Clients Served | **50+** |
 | Monthly Active Users | **2,000+** |
 | Transactions Processed | **$40,000+** |
