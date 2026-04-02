@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trojan9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatimilehinbanjo@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+scalable+systems+that+serve+thousands+of+users;From+backend+APIs+to+AI+pipelines+%E2%80%94+I+ship+it+all" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Building+scalable+systems+that+serve+thousands+of+users;From+backend+APIs+to+AI+pipelines+%E2%80%94+I+ship+it+all" alt="Typing SVG" />
 
 </div>
 
