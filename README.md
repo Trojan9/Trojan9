@@ -84,7 +84,7 @@ I thrive at the intersection of **software engineering** and **artificial intell
 
 ## Professional Experience
 
-### Software Developer | Glamiris LLC
+### Software Engineer | Glamiris LLC
 **February 2022 -- Present**
 
 Architected and deployed a full-scale **distributed salon & business management platform** (Web + Mobile) now live on the Google Play Store and web, serving **50+ enterprise clients** and **2,000+ monthly active users**.
@@ -105,7 +105,7 @@ Architected and deployed a full-scale **distributed salon & business management 
 
 ---
 
-### Full Stack Mobile Developer | Simple Finance Ltd
+### Software Engineer | Simple Finance Ltd
 **November 2020 -- January 2022**
 
 Led end-to-end development of **cross-platform fintech applications**, from high-fidelity prototyping to production deployment, contributing to improved App Store ratings and overall product usability.
